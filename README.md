@@ -7,7 +7,7 @@ This application is used by gym trainers to track their customers. Initially, tr
 
 This application is mainly used in many gyms which will help them to keep the continuous track on the customers.
 
-# FEATURES INCLUDED
+# Features Included
 
 Feature 1- Basic authentication for the trainer
 
